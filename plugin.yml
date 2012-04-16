@@ -1,0 +1,9 @@
+name: Scuba
+main: me.wphf123.Scuba.Scuba
+version: 1.0
+description: >
+             (near)Infinite Underwater Air
+commands:
+  sgon:
+    description: Air on
+  sgoff:
